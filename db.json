@@ -1,0 +1,20 @@
+{
+    "pacientes": [
+      {
+        "id": "+525621102607",
+        "phone": "+525621102607",
+        "name": "Euardo",
+        "gender": "male",
+        "age": "26",
+        "infoSchedule": [
+          {
+            "id": "20215133731",
+            "daysDisease": "5",
+            "disease": "Dolor de ojos",
+            "date": "2021-09-10",
+            "time": "13:37"
+          }
+        ]
+      }
+    ]
+}
